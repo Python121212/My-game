@@ -1,0 +1,3 @@
+[submodule "GameNative"]
+	path = GameNative
+	url = https://github.com/utkarshdalal/GameNative.git
